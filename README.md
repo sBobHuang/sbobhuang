@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**sBobHuang/sbobhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as a **Triton compiler engineer**, with a strong interest in Python-based DSLs and IR-level transformations.
 
-Here are some ideas to get you started:
+## 🧩 Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily maintain the following open-source projects in [https://github.com/OpenMLIR](https://github.com/OpenMLIR) for [Triton](https://github.com/triton-lang/triton)
+
+### 🔧 [triton_runner](https://triton-runner.org)
+
+Triton multi-level runner, include cubin, ptx, ttgir etc.
+
+### 🚀 [triton_ocl](https://github.com/OpenMLIR/triton_ocl)
+
+Triton for OpenCL backend, and use mlir-translate to get source OpenCL code
+
+## 🔙 Compiler Engineering Background
+
+Previously, I worked on:
+- 
+- 🧠 **PyTorch new backend** [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+- 🖥️ **MLIR** [https://github.com/llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/mlir)
+- 🛠️ **LLVM RISC-V backend** [https://github.com/llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/llvm/lib/Target/RISCV)
+- 📦 **libclc(library of OpenCL)** [https://github.com/llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/libclc)
+- ⚡ **POCL(conformant implementation of OpenCL)** [https://github.com/pocl/pocl](https://github.com/pocl/pocl)
+- 🧩 **QEMU(emulator and virtualizer)**[https://github.com/qemu/qemu](https://github.com/qemu/qemu)
+- 🧑‍💻 **MLSynthesis(FPGA HLS TOOL)** [https://github.com/pku-liang/hector](https://github.com/pku-liang/hector)
+- 🧪 **MLSynthesis Debuger(FPGA HLS TOOL)** [https://github.com/pku-liang/Hestia](https://github.com/pku-liang/Hestia)
+- ⚙️ **onnx-mlir (Lowering of ONNX Models in MLIR)** [https://github.com/onnx/onnx-mlir](https://github.com/onnx/onnx-mlir)
+- 🧰 **Polygeist(C/C++ frontend for MLIR)** [https://github.com/llvm/Polygeist](https://github.com/llvm/Polygeist)
