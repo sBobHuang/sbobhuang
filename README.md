@@ -6,15 +6,15 @@ I'm currently working as a **Triton compiler engineer**, with a strong interest 
 
 I primarily maintain the following open-source projects in [https://github.com/OpenMLIR](https://github.com/OpenMLIR) for [Triton](https://github.com/triton-lang/triton)
 
-### 🚀 [OpenMLIR/triton_llm](https://github.com/OpenMLIR/triton_llm)
+### 🚀 [OpenMLIR/TritonLLM](https://github.com/OpenMLIR/TritonLLM)
 
 LLM Inference via Triton (Flexible & Modular): Focused on Kernel
 
-### 🔧 [OpenMLIR/triton_runner](https://github.com/OpenMLIR/triton_runner)
+### 🔧 [OpenMLIR/triton-runner](https://github.com/OpenMLIR/triton-runner)
 
 Triton multi-level runner, include cubin, ptx, ttgir etc.
 
-### 💡 [OpenMLIR/triton_ocl](https://github.com/OpenMLIR/triton_ocl)
+### 💡 [OpenMLIR/triton-ocl](https://github.com/OpenMLIR/triton-ocl)
 
 Triton for OpenCL backend, and use mlir-translate to get source OpenCL code
 
