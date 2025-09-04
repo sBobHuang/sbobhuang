@@ -14,6 +14,10 @@ LLM Inference via Triton (Flexible & Modular): Focused on Kernel
 
 Triton multi-level runner, include cubin, ptx, ttgir etc.
 
+### 📖 [OpenMLIR/triton-tutorial](https://github.com/OpenMLIR/triton-tutorial)
+
+Getting Started with Triton: A Tutorial for Python Beginners
+
 ### 💡 [OpenMLIR/triton-ocl](https://github.com/OpenMLIR/triton-ocl)
 
 Triton for OpenCL backend, and use mlir-translate to get source OpenCL code
