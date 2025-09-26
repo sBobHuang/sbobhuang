@@ -10,7 +10,7 @@ I primarily maintain the following open-source projects for [OpenAI/Triton](http
 
 LLM Inference via Triton (Flexible & Modular): Focused on Kernel
 
-### 🔧 [Triton runner](https://github.com/qa-ai/triton-runner)
+### 🔧 [Triton Runner](https://github.com/qa-ai/triton-runner)
 
 Triton multi-level runner, include cubin, ptx, ttgir etc.
 
