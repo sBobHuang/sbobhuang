@@ -6,19 +6,19 @@ I'm currently working as a **Triton compiler engineer**, with a strong interest 
 
 I primarily maintain the following open-source projects for [OpenAI/Triton](https://github.com/triton-lang/triton)
 
-### 🚀 [toy-ai-top/TritonLLM](https://github.com/toy-ai-top/TritonLLM)
+### 🚀 [TritonLLM](https://github.com/qa-ai/TritonLLM)
 
 LLM Inference via Triton (Flexible & Modular): Focused on Kernel
 
-### 🔧 [toy-ai-top/triton-runner](https://github.com/toy-ai-top/triton-runner)
+### 🔧 [Triton runner](https://github.com/qa-ai/triton-runner)
 
 Triton multi-level runner, include cubin, ptx, ttgir etc.
 
-### 💡 [toy-ai-top/triton-ocl](https://github.com/toy-ai-top/triton-ocl)
+### 💡 [Triton OpenCL](https://github.com/toy-ai-top/triton-ocl)
 
 Triton for OpenCL backend, and use mlir-translate to get source OpenCL code
 
-### 📖 [dsl-learn/triton-tutorial](https://github.com/dsl-learn/triton-tutorial)
+### 📖 [Triton Tutorial](https://github.com/dsl-learn/triton-tutorial)
 
 Getting Started with Triton: A Tutorial for Python Beginners
 
