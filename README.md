@@ -25,7 +25,7 @@ Getting Started with Triton: A Tutorial for Python Beginners
 ## 🔙 Compiler Engineering Background
 
 Previously, I worked on:
-- 
+
 - 🧠 **PyTorch new backend** [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 - 🖥️ **MLIR** [https://github.com/llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/mlir)
 - 🛠️ **LLVM RISC-V backend** [https://github.com/llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/llvm/lib/Target/RISCV)
